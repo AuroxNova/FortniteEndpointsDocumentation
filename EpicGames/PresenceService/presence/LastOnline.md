@@ -2,7 +2,7 @@
 
 URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/_/:accountId/last-online \
 Method: GET \
-Auth Required: Yes
+Auth Required: Yes (`presence:_`)
 
 ## Path Parameters
 `accountId`: Your AccountId
